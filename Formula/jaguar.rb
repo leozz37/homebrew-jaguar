@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Espanso < Formula
+class Jaguar < Formula
     desc "CLI tool for testing socket connections"
     homepage "https://github.com/leozz37/jaguar"
     url "https://github.com/leozz37/jaguar/releases/download/v0.1/jaguar.tar.gz"
